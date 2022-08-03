@@ -1,0 +1,3 @@
+﻿  WinKillHaha.cpp
+C:\ShellCodeInjector\WinKillHaha\WinKillHaha.cpp(39,41): warning C4244: '=': conversion from 'DWORDLONG' to 'DWORD', possible loss of data
+  WinKillHaha.vcxproj -> C:\ShellCodeInjector\x64\Debug\WinKillHaha.exe
