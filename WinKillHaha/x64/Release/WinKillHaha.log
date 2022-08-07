@@ -1,0 +1,8 @@
+﻿  base64.cpp
+  WinKillHaha.cpp
+C:\ShellCodeInjector\WinKillHaha\WinKillHaha.cpp(66,41): warning C4244: '=': conversion from 'DWORDLONG' to 'DWORD', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 156 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WinKillHaha.vcxproj -> C:\ShellCodeInjector\x64\Release\WinKillHaha.exe

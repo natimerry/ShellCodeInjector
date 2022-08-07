@@ -1,8 +1,7 @@
 #include <iostream>
 #include <Windows.h>
 #include <conio.h>
-#include <tlhelp32.h>
-#include <vector>
+#include <Math.h>
 #include "base64.h"
 
 
